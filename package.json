@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/dagfs/cdoc#readme",
   "peerDependencies": {
-    "react":">=16.0.0"
+    "react": ">=16.0.0"
   },
   "devDependencies": {
     "@types/react": "^16.9.21",
